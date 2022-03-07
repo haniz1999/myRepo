@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class SharedData 
 {
-	private ArrayList<Integer> list;//zeb
+	private ArrayList<Integer> list;//ze
 	private boolean [] winArray;
 	private boolean flag;
 	private final int b;
